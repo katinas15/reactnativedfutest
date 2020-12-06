@@ -1,0 +1,7 @@
+{
+    "root": "F:\\Git\\safety_app\\experiments\\ReactNative\\reactnative",
+    "node_env": "development",
+    "default_script": "app.js",
+    "apps": {},
+    "web": {}
+}
